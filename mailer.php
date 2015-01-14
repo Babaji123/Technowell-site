@@ -1,6 +1,6 @@
 <?php
 /* Set e-mail recipient */
-$myemail = "kvreddy1120@gmail.com";
+$myemail = "babaji.mohammed@gmail.com";
 
 /* Check all form inputs using check_input function */
 $name = check_input($_POST['inputName'], "Your Name");
